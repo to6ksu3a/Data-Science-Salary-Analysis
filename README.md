@@ -5,7 +5,6 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.2%2B-yellowgreen)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 
-Комплексный анализ рынка труда data-специалистов с выявлением ключевых факторов, влияющих на уровень заработных плат.
 
 ## О проекте
 
